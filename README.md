@@ -20,7 +20,7 @@ Ce projet est une application web simple développée avec **Python**, **Streaml
 
 ## 🎬 Vidéo de démonstration
 
-👉  [Clique ici pour voir la vidéo de l'application](https://youtu.be/https://youtu.be/jIublsJ8Bdk  )  
+👉  [Clique ici pour voir la vidéo de l'application](https://youtu.be/jIublsJ8Bdk  )  
 
 
 ## REALISER PAR :
